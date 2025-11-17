@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "data-engineerapi",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "data-engineer",
+      "database_id": "31d5274a-7513-483a-8e07-da488bb7c47d"
+    }
+  ]
+}
